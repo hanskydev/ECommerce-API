@@ -52,3 +52,7 @@ Spring Boot API for ecommerce with CRUD operations, JWT authentication, and Post
     ```sh
     mvn spring-boot:run
     ```
+
+## Web Frontend
+
+For the React frontend of this project, visit [Frontend Repository](https://github.com/hanskydev/learn-react-crud).
